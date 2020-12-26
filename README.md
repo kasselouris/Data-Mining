@@ -10,7 +10,7 @@ On 18-11-202
 
 ## Recommendation Systems
 
-I studied various algorithms used in recommendation systems based on their Root Mean Square Error(RMSE) using the Yelp Dataset:
+I implemented and compared various algorithms used in recommendation systems based on their Root Mean Square Error(RMSE) using the Yelp Dataset:
 - [Yelp Dataset](https://www.yelp.com/dataset)
 
 On 10-12-2020
