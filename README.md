@@ -14,3 +14,7 @@ I implemented and compared various algorithms used in recommendation systems bas
 - [Yelp Dataset](https://www.yelp.com/dataset)
 
 On 10-12-2020
+
+## Value Propagation
+
+On the same Yelp Dataset using a Graph to represent Users(nodes) and its frienships(edges) I implemented Value Propagation algorithm as a **recommender system**. Then, I compared it with UCF, ICF, User Average, Business Average algorithms(for more info check recommender_systems.ipynb above) based on their RMSE.
